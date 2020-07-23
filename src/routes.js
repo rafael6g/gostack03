@@ -19,7 +19,6 @@ const upload = multer(multerConfig);
 routes.post('/users', UserController.store);
 routes.post('/sessions', SessionController.store);
 
-// teste budyd
 routes.get('/', (req, res) => res.send('ok' ));
 
 routes.use(authMiddleware);
