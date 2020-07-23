@@ -35,7 +35,7 @@
     "sequelize": "^5.8.7",
     "set-value": "^2.0.1",
     "youch": "^2.0.10",
-    "yup": "^0.27.0"
+    "yup": "^0.29.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
